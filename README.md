@@ -116,11 +116,11 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
-![OUTPUT](http://deepikasrinivasan.student.saveetha.in:8000/static/images/deeps.png?raw=true)
+# OUTPUT
+![OUTPUT](./deeps.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://deepikasrinivasan.student.saveetha.in:8000/static/images/valid1.png?raw=true)
+![HTML VALIDATOR](./validator1.png)
 
 # RESULT
 The program for creating slot timetable is completed successfully
